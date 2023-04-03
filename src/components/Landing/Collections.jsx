@@ -83,7 +83,7 @@ export default function Collections() {
               className="group relative flex h-48 items-end justify-end overflow-hidden rounded px-4 shadow-lg md:h-80"
             >
               <Image
-                src="/assets/collection-3.jpg"
+                src="/assets/supplements.jpg"
                 height={1024}
                 width={1024}
                 alt="Supplements"

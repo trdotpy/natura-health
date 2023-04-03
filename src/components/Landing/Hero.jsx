@@ -57,8 +57,8 @@ export default function Hero() {
               <Image
                 src="/assets/hero-cream.jpg"
                 alt="mockup"
-                height={1200}
-                width={1200}
+                height={1024}
+                width={720}
                 className="h-full w-full object-cover object-center"
               />
             </motion.div>
@@ -70,8 +70,8 @@ export default function Hero() {
               <Image
                 src="/assets/hero-bath.jpg"
                 alt="mockup"
-                height={500}
-                width={500}
+                height={1024}
+                width={720}
                 className="h-full w-full object-cover object-center"
               />
             </motion.div>
