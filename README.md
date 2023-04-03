@@ -1,6 +1,6 @@
 <!-- ![Logo](./assets/natura-icon-black.png) -->
 
-# Natura Health Company
+# Natura Health Co
 
 ### <a href="https://natura-health.vercel.app/">Live Site</a>
 
