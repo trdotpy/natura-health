@@ -13,7 +13,7 @@ Nature Health's mission is to revolutionize the health and wellness industry by 
 - Headless UI
 - Contentful CMS
 - Shopify API
-- React Redux
+- Redux
 - Framer Motion
 
 ## Screenshots
